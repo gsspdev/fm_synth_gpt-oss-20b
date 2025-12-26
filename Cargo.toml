@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 cpal = "0.17"
 num-traits = "0.2"
+eframe = "0.27"      # brings in egui + the native backend
